@@ -9,11 +9,13 @@ const GlobalStyle = createGlobalStyle`
     }
 
     body {
-        background: #1b1b1b; 
+        background: #1b1b1b;
+        font-family: 'Inter', sans-serif;
     }
 
     button {
         font-weight: bold;
+        font-family: 'Inter', sans-serif;
         font-size: 1.1rem;
         cursor: pointer;
         padding: 1rem 2rem;
