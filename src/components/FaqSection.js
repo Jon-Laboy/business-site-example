@@ -1,6 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
 import { About } from '../styles'
+import {motion} from 'framer-motion'
+
 
 
 const FaqSection = () => {
