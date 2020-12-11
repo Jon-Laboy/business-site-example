@@ -9,10 +9,10 @@ const Nav = () => {
 
     return (
         <StyledNav>
-            <h1><Link id="logo" to="/">Laboy</Link></h1>
+            <h1><Link id="logo" to="/">Business</Link></h1>
                 <ul>
                     <li>
-                        <Link to="/">About Us</Link>
+                        <Link to="/"> About Us</Link>
                         <Line
                             transition={{ duration: 0.75 }}
                             initial={{ width: "0%" }}

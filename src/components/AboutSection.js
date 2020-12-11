@@ -13,14 +13,14 @@ const AboutSection = () => {
                 <motion.div>
                     <Hide>
                         <motion.h2 variants={titleAnim}>
-                            I'm
+                            We work to make
                         </motion.h2>
                     </Hide>
                     <Hide>
-                        <motion.h2 variants={titleAnim}>Jon <span>Laboy</span> </motion.h2>
+                        <motion.h2 variants={titleAnim}>your <span>dreams</span> come</motion.h2>
                     </Hide>
                     <Hide>
-                        <motion.h2 variants={titleAnim}>Front End <span>Dev</span> </motion.h2>
+                        <motion.h2 variants={titleAnim}>true.</motion.h2>
                     </Hide>
                 </motion.div>
                 <motion.p variants={fade}>Contact us for any photography or videography ideas that you have. We have professionals with amazing skills.</motion.p>
